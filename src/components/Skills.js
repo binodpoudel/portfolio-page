@@ -82,6 +82,14 @@ function Skills() {
                         </div>
                         <div className="line db"></div>
                     </div>
+                        
+                    <div className="bars">
+                        <div className="info">
+                            <span>SQL Database</span>
+                            <span>Self</span>
+                        </div>
+                        <div className="line db"></div>
+                    </div>
 
                     
                 </div>
