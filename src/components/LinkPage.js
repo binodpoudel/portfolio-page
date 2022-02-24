@@ -13,10 +13,10 @@ const LinkPage = (props) => {
                      <div className='col-md-6 pt-5 pt-lg-0 order-lg-1 d-flex justify-content-center flex-column'>
                         <h1>
                          {props.name}
-                         <strong className='brand-name'>"Binod Poudel"</strong>
+                         {/*<strong className='brand-name'>"Binod Poudel"</strong>*/ }
                         </h1>
                         <h2 className='my-3'>
-                        "I am Junior full stack web developer live in Leipzig,Germany."
+                        "I am a junior full stack software developer living in Leipzig,Germany. Now seeking a job as a junior software developer in Germany."
                         </h2>
                         <div className='mt-3'>
                             <NavLink to ={props.visit}className="btn-get-started ">

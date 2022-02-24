@@ -7,7 +7,7 @@ function About() {
     return (
         <div className='about'>
           <LinkPage 
-           name='Hello i am&nbsp;&nbsp;' 
+           name='Hello i am Binod Poudel&nbsp;&nbsp;' 
            imgsrc={MyImage} 
            visit= '/contact' 
            btname='Contact me' />

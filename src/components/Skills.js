@@ -10,8 +10,8 @@ function Skills() {
             {/*<h2 className="title"></h2>*/}
             <div className="skills-content">
                 <div className="column left">
-                    <div className="text">MY Knowledge</div>
-                    <p>What i was learned one years course in DCI (Digital Career Institute)</p>
+                    <div className="text">My Skills</div>
+                    <p>What I learned on a one-year course at DCI (Digital Career Institute).</p>
                     <NavLink to="/">Read More</NavLink>
                 </div>
                 <div className="column right">
@@ -78,6 +78,13 @@ function Skills() {
                     <div className="bars">
                         <div className="info">
                             <span>TypeScript Learning</span>
+                            <span>Self</span>
+                        </div>
+                        <div className="line db"></div>
+                    </div>
+                    <div className="bars">
+                        <div className="info">
+                            <span>SQL Database</span>
                             <span>Self</span>
                         </div>
                         <div className="line db"></div>

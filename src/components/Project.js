@@ -7,9 +7,9 @@ import {FaGithub,} from "react-icons/fa";
 const Project = () => {
   const [header] = React.useState({
     mainHeader: "",
-    subHeading: "My Project",
-    text:
-      `If you want to look my projects code click on 'Go Link'.`,
+    subHeading: "My Project"
+    /*text:
+    `If you want to look my projects code click on 'Go Link'.`, */
   });
   const [state] = React.useState([
     {
@@ -58,6 +58,14 @@ const Project = () => {
       heading: "React-Portfolio-page",
       text:
       <a target="_blank" rel="noopener noreferrer" href="https://github.com/binodpoudel/portfolio-page"><button type="button" className="btn btn-info">Go Link</button></a>
+    },
+
+    {
+      id: 7,
+      icon: <FaGithub  className="commonIcons" />,
+      heading: "travel-memories-mern-app",
+      text:
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/binodpoudel/travel-memories-mern-app"><button type="button" className="btn btn-info">Go Link</button></a>
     }
     
     

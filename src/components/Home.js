@@ -9,7 +9,7 @@ function Home() {
         <div className='home'>
 
          <LinkPage className='hello'
-           name="Coding is my passion, I am Binod poudel from himalayan country Nepal, I am Junior MERN stack web developer.&nbsp;&nbsp;"
+           name="Coding is my passion. I am Binod poudel from the Himalayan country, Nepal. I am a junior full stack software developer.&nbsp;&nbsp;"
            imgsrc={MyImage}
            visit= '/project' 
            btname='Get Start' />

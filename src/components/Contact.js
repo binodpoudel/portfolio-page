@@ -59,7 +59,7 @@ function Contact() {
                      <div className="col-12">
                         <button onClick={() => setButtonPopup(true)} className="btn btn-outline-primary" type="submit">Submit form</button> 
                      <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
-                            <h5>Contact me</h5>
+                            <h5>Thanks for message</h5>
                      </Popup>
                     </div>
                      </form>
