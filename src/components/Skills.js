@@ -82,7 +82,6 @@ function Skills() {
                         </div>
                         <div className="line db"></div>
                     </div>
-<<<<<<< HEAD
                     <div className="bars">
                         <div className="info">
                             <span>SQL Database</span>
@@ -90,10 +89,6 @@ function Skills() {
                         </div>
                         <div className="line db"></div>
                     </div>
-
-=======
->>>>>>> e3d27992449683d7848ff63feab79b1ae22a44b9
-                    
                 </div>
             </div>
         </div>
